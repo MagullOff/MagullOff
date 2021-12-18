@@ -2,7 +2,7 @@
 
 <img align="right" img width="35%" src="https://i.imgur.com/LXVcA1w.png" />
                                                                                                                                    
-I am:
+### I am:
 - 👨‍🎓 currently studying Computer Science at Warsaw University of Technology
 - 🐧 a huge Linux/Open Source/VIM enthusiast
 - 🤓 most comfortable with C++, C, javascript and C#
