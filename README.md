@@ -1,9 +1,7 @@
 <h2 align="center">Hello! I'm MagullOff</h2>
 
-<p align=”center”>
-<img width=”200" height=”200" src=”https://i.imgur.com/LXVcA1w.png">
-</p>
-                                                                                                                                         
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="https://i.imgur.com/LXVcA1w.png" /></a></p>
+                                                                                                                                   
 I am:
 - 👨‍🎓 currently studying Computer Science at Warsaw University of Technology
 - 🐧 a huge Linux/Open Source/VIM enthusiast
