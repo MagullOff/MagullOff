@@ -1,7 +1,7 @@
 <h2 align="center">Hello! I'm MagullOff</h2>
 
 <p align=”center”>
-<img width=”200" height=”200" src=”https://imgur.com/a/JZuAgzL">
+<img width=”200" height=”200" src=”https://i.imgur.com/LXVcA1w.png">
 </p>
                                                                                                                                          
 I am:
