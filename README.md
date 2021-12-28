@@ -5,7 +5,7 @@
 ### I am:
 - 👨‍🎓 currently studying Computer Science at Warsaw University of Technology
 - 🐧 a huge Linux/Open Source/VIM enthusiast
-- 🤓 most comfortable with C++, C, javascript and C#
+- 🤓 most comfortable with C++, C and C#
 - ⭐ trying to pick up functional programming, as i think it's a cool concept
 - 😮 a big fan of Soyack memes
 
