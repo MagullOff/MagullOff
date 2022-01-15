@@ -8,9 +8,6 @@
 - 🤓 most comfortable with C++, C and C#
 - ⭐ trying to pick up functional programming, as i think it's a cool concept
 - 😮 a big fan of Soyack memes
-
-### Stuff to check out:
-- My 4x4x4 <a href="https://playtictactoe444.web.app/">TicTacToe</a> game
-- Soyusz <a href="https://soyusz.netlify.app/">site</a>
-- My <a href="https://github.com/MagullOff/dotfiles"> dotfiles</a> for i3-wm
+- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magulloff)](https://github.com/anuraghazra/github-readme-stats)
 
