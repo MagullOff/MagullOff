@@ -1,6 +1,6 @@
 <h2 align="center">Hello! I'm MagullOff</h2>
 
-<img align="right" img width="40%" src="https://i.imgur.com/LXVcA1w.png" />
+<img align="right" img width="30%" src="https://i.imgur.com/LXVcA1w.png" />
                                                                                                                                    
 ### I am:
 - 👨‍🎓 currently studying Computer Science at Warsaw University of Technology
