@@ -2,6 +2,6 @@
                                                                                                                                    
 ### I am:
 - 👨‍🎓 currently studying Computer Science at Warsaw University of Technology
+- a Junior, C# developer
 - 🐧 a huge Linux/Open Source/VIM enthusiast
-- 🤓 most comfortable with C++, C, C# and Rust
-- ⭐ trying to pick up functional programming, as i think it's a cool concept
+- 🤓 most comfortable with C# and Rust
