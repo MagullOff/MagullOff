@@ -4,4 +4,4 @@
 - currently studying Computer Science at Warsaw University of Technology
 - a Junior C# developer
 - a huge Linux/Open Source/VIM enthusiast
-- a certified rust Rust lover
+- a certified Rust lover
